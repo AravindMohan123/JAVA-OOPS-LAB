@@ -58,7 +58,7 @@ class Circle implements dimensions{
 
 
 public class AreaOverride {
-	public static void main(){
+	public static void main(String[] args){
 
 		Rectangle Robj = new Rectangle();
 		Circle Cobj = new Circle();
